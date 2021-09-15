@@ -54,3 +54,9 @@ if __name__ == '__main__':
     # Run the bot
     updater.start_polling(1.0)
     updater.idle()
+    
+    
+    main()
+
+    
+    
